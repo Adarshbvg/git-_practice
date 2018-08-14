@@ -3,7 +3,7 @@ This is my git training
 this is another branch
 
 
-conflict raise in another baranch
+<<<<<<< HEAD
 only one
 jojdfojikvnkldnvkl
 
@@ -11,3 +11,6 @@ jojdfojikvnkldnvkl
 nmdfnl;ngvglsflkdngvfdnkdf
 nsfvfnfdvn
 
+=======
+conflict raise in another baranch
+>>>>>>> another_branch
